@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fee-voucher/static/css/main.d28326b5.css",
+    "main.js": "/Fee-voucher/static/js/main.71f8ac8b.js",
+    "static/js/787.aeb39de0.chunk.js": "/Fee-voucher/static/js/787.aeb39de0.chunk.js",
+    "index.html": "/Fee-voucher/index.html",
+    "main.d28326b5.css.map": "/Fee-voucher/static/css/main.d28326b5.css.map",
+    "main.71f8ac8b.js.map": "/Fee-voucher/static/js/main.71f8ac8b.js.map",
+    "787.aeb39de0.chunk.js.map": "/Fee-voucher/static/js/787.aeb39de0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d28326b5.css",
+    "static/js/main.71f8ac8b.js"
+  ]
+}
